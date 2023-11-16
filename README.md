@@ -1,2 +1,2 @@
-# CryptoAlgorith
+# CryptoAlgorithm
 Algorithm Implementation
