@@ -21,5 +21,5 @@ def hash_file(filename):
    # return the hex representation of digest
    return h.hexdigest()
 
-message = hash_file("file_to_encrypt.txt.dec")
+message = hash_file("file_to_encrypt.txt")
 print(message)
